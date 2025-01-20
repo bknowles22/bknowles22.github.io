@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Bryne Knowles"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "B.E. Biomedical Engineering"
 name                     : &name "Bryne Knowles" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://bknowles22.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,15 +98,15 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
+  bio              : "An engineer with a passion for biomedical devices "
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/bknowles22"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/bryne-knowles/"
 
 
 # Site Footer
@@ -114,10 +114,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
+      url: "https://github.com/bknowles22"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/bryne-knowles/"
 
 
 # Reading Files
