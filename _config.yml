@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Florian"
+title                    : "Bryne Knowles"
 title_separator          : "-"
 subtitle                 : "Example Website for Class"
 name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
