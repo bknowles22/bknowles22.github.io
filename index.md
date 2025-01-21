@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Bryne is an engineer with a passion for biomedical devices. His area of expertise is 3D printing, with an emphasis on biomedical applications."
+excerpt: "Bryne is an engineer with a passion for biomedical devices. Her area of expertise is 3D printing, with an emphasis on biomedical applications."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
