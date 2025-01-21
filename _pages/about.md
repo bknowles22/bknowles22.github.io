@@ -25,4 +25,4 @@ Bryne can operate a number of different fabrication tools to turn 3D models into
 
 During her time at Anschutz, Bryne contributed to research on gilomas resulting in a paper publication: [Differential Effects of Extracellular Vesicles from Two Different Glioblastomas on Normal Human Brain Cells](https://pubmed.ncbi.nlm.nih.gov/39585062/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="assets/img/Bryne_senior.jpg" alt="Bryne Knowles" style="width:200px;"/>
