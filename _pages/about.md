@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "Bryne Knowles"
 
 ---
 
@@ -8,11 +8,11 @@ title: "About David Florian"
 
 David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Biomedical Engineering
+  * Minor in Digital Fabrication
+  * Minor in Engineering Management 
+
 
 ## Technical Skills
 
@@ -26,6 +26,6 @@ David can operate a number of different computer controlled (CNC) fabrication to
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+During her time at Anschutz, Bryne contributed to research on gilomas resulting in a paper publication: [Differential Effects of Extracellular Vesicles from Two Different Glioblastomas on Normal Human Brain Cells] (https://pubmed.ncbi.nlm.nih.gov/39585062/).
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
