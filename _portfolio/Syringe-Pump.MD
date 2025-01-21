@@ -67,5 +67,5 @@ The smallest red button controls the power of the syringe pump. The other two bu
 {% include gallery caption="Syringe Pump Gallery" %}
 
 # Arduino Code
-<a href="Digital_Fab_final_code.ino" download>Click Here to Download</a>
+<a href="/Digital_Fab_final_code.ino" download>Click Here to Download</a>
 
