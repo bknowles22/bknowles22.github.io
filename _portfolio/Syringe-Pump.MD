@@ -67,5 +67,5 @@ gallery:
 {% include gallery caption="Syringe Pump Gallery" %}
 
 # Arduino Code
-<a href="/assets/syringepumpcode.ino" target="Click to Download" />
+<a href="/assets/syringepumpcode.ino" download>Download TAR.GZ<a>
 
