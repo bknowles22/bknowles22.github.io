@@ -16,17 +16,17 @@ Bryne has a diverse skill set, she has experience in biology labs as well as exp
 ## Work Experience
 
 * Vanderbilt University Department of Engineering Management
-      * Course Coordinator for Technology Strategy, January 2025 - Present
+  * Course Coordinator for Technology Strategy, January 2025 - Present
 * Medtronic, Cerebrospinal Fluid Team
-      * R&D Engineering Intern, June 2024 - August 2024
+  * R&D Engineering Intern, June 2024 - August 2024
 * Reinhart-King Lab: Cellular mechanobiology, Vanderbilt University
-      * Undergraduate Researcher, December 2022 - January 2024
+  * Undergraduate Researcher, December 2022 - January 2024
 * Tikkun Olam Makers (TOM)
-      * Logistics Vice President of [TOM: Vanderbilt](https://www.vanderbilt.edu/thewondry/tom-2023-make-a-thon/), November 2022 - January 2024
+  * Logistics Vice President of [TOM: Vanderbilt](https://www.vanderbilt.edu/thewondry/tom-2023-make-a-thon/), November 2022 - January 2024
 * Augment Health, Seed Funded Start-UP
-       * Business Development Intern, May 2023 - August 2023
+  * Business Development Intern, May 2023 - August 2023
 * Anschutz Medical Campus Department of Neurosurgery
-       * Cancer Research Fellowship June 2022 - August 2022
+  * Cancer Research Fellowship June 2022 - August 2022
 
 ## Technical Skills
 
