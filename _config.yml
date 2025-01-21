@@ -15,7 +15,7 @@ title                    : "Bryne Knowles"
 title_separator          : "-"
 subtitle                 : "B.E. Biomedical Engineering"
 name                     : &name "Bryne Knowles" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Bryne's Website "
 url                      : https://bknowles22.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -104,8 +104,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bknowles22"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-LinkedIn"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bryne-knowles/"
 
 
@@ -115,8 +115,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bknowles22"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-LinkedIn"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bryne-knowles/"
 
 
