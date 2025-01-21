@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEap5aL5PaR00X99MWn3l908VtMpS-B-V-Qg&s" alt="Bryne Knowles" style="width:200px;"/>
+  overlay_image: <img src="https://www.alxafrica.com/wp-content/uploads/2024/10/hero-vanderbilt-min.png" alt="Bryne Knowles" style="width:200px;"/>
   actions:
     - label: "My Projects"
       url: "/portfolio/"
