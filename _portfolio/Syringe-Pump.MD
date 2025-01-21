@@ -19,7 +19,7 @@ gallery:
 
 # Off-The-Shelf Parts Needed:
 **Part** | **Qty** | 
---- | --- | ---
+--- | --- 
 [250 mm lead screw with 2 mm pitch and 2 mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) | 1 | 
 [250 mm lead screw with 2 mm pitch and 8 mm lead](https://www.amazon.com/gp/product/B0B8RKN89V?ie=UTF8&th=1&linkCode=sl1&tag=drd0cf-20&linkId=bb4eefbbfff880704d7cd0784b1af8c0&language=en_US&ref_=as_li_ss_tl) | 1 | 
 [1/4" x 8 mm flexible coupling](https://us.openbuilds.com/1-4-x-8mm-flexible-coupling/) | 1 |
