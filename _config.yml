@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.linkedin.com/in/bryne-knowles/"
 
 # Analytics
 analytics:
@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "/assets/img/Bryne_senior.jpg"
   bio              : "An engineer with a passion for biomedical devices "
   location         : "Nashville, TN"
   links:
