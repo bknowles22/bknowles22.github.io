@@ -12,8 +12,8 @@ excerpt: "Bryne is an engineer with a passion for biomedical devices. Her area o
 feature_row:
   - image_path: assets/img/Syringe_pump.jpg
     alt: "Syringe Pump"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    title: "DIY Syringe Pump"
+    excerpt: "Built for controlled liquid dispense."
 
 ---
 
