@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Bryne is an engineer with a passion for biomedical devices. Her area of expertise is 3D printing, with an emphasis on biomedical applications."
+excerpt: "Bryne is a Biomedical engineer at Vanderbilt University graduating in 2025. She has a passion for biomedical devices and 3D printing, with an emphasis on biomedical applications. After graduation she plans to move to Boston where she will be working as a Clinical Systems Engineer at Medtronic."
 feature_row:
   - image_path: assets/img/Syringe_pump.jpg
     alt: "Syringe Pump"
