@@ -38,7 +38,7 @@ gallery:
 F688ZZ Flanged Ball Bearing | 2 |
 M5 Tee Nut | 8 |
 M3x8 Thread Forming Screw | 4 |
-M3x10 Bolt | |
+M3x10 Bolt | 1 |
 Nut tr8x8-4 | 1 |
 LCD Screen | 1 |
 20 mL Syringe | 1 |
