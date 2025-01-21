@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: https://a.storyblok.com/f/64062/1800x942/2ff7394d56/vanderbilt-uni.jpg/m/
+  overlay_image: <img src="https://a.storyblok.com/f/64062/1800x942/2ff7394d56/vanderbilt-uni.jpg/m/" alt="Bryne Knowles" style="width:200px;"/>
   actions:
     - label: "My Projects"
       url: "/portfolio/"
