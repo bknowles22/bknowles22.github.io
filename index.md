@@ -14,7 +14,7 @@ feature_row:
     alt: "Syringe Pump"
     title: "DIY Syringe Pump"
     excerpt: "Built for controlling liquid dispense rate."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/Syringe_pump.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
     excerpt: "A hot plasma stream slices through sheet metal."
