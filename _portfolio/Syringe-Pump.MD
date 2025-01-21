@@ -67,4 +67,4 @@ gallery:
 {% include gallery caption="Large Format 3D Printer Gallery" %}
 
 # Arduino Code
-[Click to Download](/assets/syringepumpcode.ino)
+[Click to Download](assets/syringepumpcode.ino)
