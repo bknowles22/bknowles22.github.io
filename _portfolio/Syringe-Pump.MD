@@ -13,10 +13,10 @@ gallery:
 
 # Function
 
-* This pump is a DIY cost-effective alternative to expensive medical-grade syringe pumps. To dispense liquid at a controllable rate, the syringe pump is controlled by a microcontroller, using a potentiometer the speed of dispensing can be controlled.
+This pump is a DIY cost-effective alternative to expensive medical-grade syringe pumps. To dispense liquid at a controllable rate, the syringe pump is controlled by a microcontroller, using a potentiometer the speed of dispensing can be controlled.
 
 # Operation 
-*  The smallest red button controls the power of the syringe pump. The other two buttons dictate which way the linear actuator moves. The LCD will display the rate at which the liquid is dispensed, to change the rate, the spinner can be moved.
+The smallest red button controls the power of the syringe pump. The other two buttons dictate which way the linear actuator moves. The LCD will display the rate at which the liquid is dispensed, to change the rate, the spinner can be moved.
 
 # Off-The-Shelf Parts Needed:
 
@@ -67,5 +67,5 @@ gallery:
 {% include gallery caption="Syringe Pump Gallery" %}
 
 # Arduino Code
-<a href="/assets/syringepumpcode.ino" download>Download TAR.GZ<a>
+<a href="/assets/syringepumpcode.ino" download>Click Here to Download<a>
 
