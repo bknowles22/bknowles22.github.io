@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: https://a.storyblok.com/f/64062/1800x942/2ff7394d56/vanderbilt-uni.jpg/m/
   actions:
     - label: "My Projects"
       url: "/portfolio/"
