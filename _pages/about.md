@@ -21,7 +21,7 @@ Bryne can operate a number of different fabrication tools to turn 3D models into
 * Fused Filament Fabrication (FFF)
 
 
-## Press 
+## Publications 
 
 During her time at Anschutz Medical Center, Bryne contributed to research on gilomas resulting in a paper publication: [Differential Effects of Extracellular Vesicles from Two Different Glioblastomas on Normal Human Brain Cells](https://pubmed.ncbi.nlm.nih.gov/39585062/).
 
