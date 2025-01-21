@@ -11,13 +11,27 @@ Bryne has a diverse skill set, she has experience in biology labs as well as exp
 * Vanderbilt University
   * BE Biomedical Engineering
        * Minor in Digital Fabrication
-       * Minor in Engineering Management 
+       * Minor in Engineering Management
+    
+## Work Experience
 
+* Vanderbilt University Department of Engineering Management
+      * Course Coordinator for Technology Strategy, January 2025 - Present
+* Medtronic, Cerebrospinal Fluid Team
+      * R&D Engineering Intern, June 2024 - August 2024
+* Reinhart-King Lab: Cellular mechanobiology, Vanderbilt University
+      * Undergraduate Researcher, December 2022 - January 2024
+* Tikkun Olam Makers (TOM)
+      * Logistics Vice President of [TOM: Vanderbilt](https://www.vanderbilt.edu/thewondry/tom-2023-make-a-thon/), November 2022 - January 2024
+* Augment Health, Seed Funded Start-UP
+       * Business Development Intern, May 2023 - August 2023
+* Anschutz Medical Campus Department of Neurosurgery
+       * Cancer Research Fellowship June 2022 - August 2022
 
 ## Technical Skills
 
-Bryne can operate a number of different fabrication tools to turn 3D models into real-life parts. Bryne has experience with the following additive manufacturing technologies:
-
+* Solid Works
+* Fusion 360 
 * Fused Filament Fabrication (FFF)
 
 
