@@ -18,8 +18,6 @@ feature_row:
     alt: "uFluidic"
     title: "3D Printed MicroFluidic"
     excerpt: "Made for sorting small particles by size."
-
-
 ---
 
 {% include feature_row %}
