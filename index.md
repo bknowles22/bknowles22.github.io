@@ -14,7 +14,7 @@ feature_row:
     alt: "Syringe Pump"
     title: "DIY Syringe Pump"
     excerpt: "Built for controlling liquid dispense rate."
-     - image_path: assets/img/PDMS_device.png
+  - image_path: assets/img/PDMS_device.png
     alt: "uFluidic"
     title: "3D Printed MicroFluidic"
     excerpt: "Made for sorting small particles by size."
