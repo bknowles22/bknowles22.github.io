@@ -3,10 +3,10 @@ title: "UFludics"
 excerpt: "A 3D printed microfludic device capable of sorting particles by size"
 header:
   image: /assets/img/PDMS_device.png
-  teaser: /assets/img/VPP_mold.png
+  teaser: /assets/img/VPP_Mold.png
 gallery:
   - image_path: /assets/img/PDMS_device.png
-  - image_path: /assets/img/VPP_mold.png
+  - image_path: /assets/img/VPP_Mold.png
      
 ---
 
