@@ -2,13 +2,12 @@
 title: "UFludics"
 excerpt: "A 3D printed microfludic device capable of sorting particles by size"
 header:
-  image: /assets/img/Syringe_pump.jpg
-  teaser: /assets/img/Syringe_pump.jpg
+  image: /assets/img/PDMS_device.jpg
+  teaser: /assets/img/VPP_mold.jpg
 gallery:
-  - image_path: assets/img/Syringe_pump.jpg
-  - image_path: assets/img/Syringe Pump Render.png
-  - image_path: assets/img/Syringe Pump Render2.png
-   
+  - image_path: assets/img/PDMS_device.jpg
+  - image_path: assets/img/VPP_mold.png
+     
 ---
 
 # Summary 
