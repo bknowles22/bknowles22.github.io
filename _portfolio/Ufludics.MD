@@ -25,7 +25,7 @@ Pinch Flow Fractionation (PFF) is a technique that separates particles based on 
 
 As the flow transitions from the narrow (pinched) segment to a wider region, the velocity profile changes, creating size-dependent forces on the particles. Larger particles experience a greater force pushing them toward the center of the channel, while smaller particles remain closer to the sidewall [2]. This amplification of small initial differences in position results in an effective size-based separation perpendicular to the main flow direction. 
 
-image: /assets/img/Screenshot 2025-03-21 145832.png
+[Pinch Flow Fractionation]! (/assets/img/Screenshot 2025-03-21 145832.png)
 Figure 1: Demonstration of pinched flow fractionation [2]
 
 # Potential Future Applications 
