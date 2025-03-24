@@ -15,6 +15,7 @@ gallery:
 This 3D-printed microfluidic device demonstrates a cost-effective alternative to using silicon wafers to design and create microfluidic devices. This device was concept tested using plastic particles of different sizes and sorting them into respective channels. However the broader aplications include sorting cells of different types soley on size.
 
 # Introduction 
+
 Microfluidic devices are miniaturized systems fabricated from materials such as glass and polydimethylsiloxane (PDMS), designed to process small liquid volumes, typically in the microliter (μL) range. These devices have diverse biomedical applications, including disease diagnostics, cell sorting based on size, drug delivery, and other analytical processes [1]. By handling minimal fluid volumes, microfluidics enable cost-effective and efficient studies of various drug interactions.
 
 The objective of this project was to develop a microfluidic system capable of sorting particles based on size, simulating potential applications in cell sorting by size for biomedical research.
@@ -32,15 +33,24 @@ Figure 1: Demonstration of pinched flow fractionation [2]
 
 # Methods 
 
+First, a CAD model was created to define the mold impression, designed to optimize Pinched Flow Fractionation (PFF) and accommodate barbs for later insertion into the PDMS mold. The mold was then 3D printed using Vat Photopolymerization on a Formlabs Form 4 printer with clear resin. After printing, it was washed twice with isopropanol for five minutes each, left to dry for 30 minutes, and UV cured for 30 seconds. Once cured, the mold was coated with parylene to prevent pore leaching between the mold and PDMS. PDMS was then poured into the mold and allowed to fully cure. After curing, a glass slide was plasma bonded to the PDMS to ensure a leak-proof seal. Finally, barbs were inserted into the device, and two pumps were connected to tubing for testing. 
+ 
 # Rationale for Parylene Coating 
 
-The resin printed molds need to be coated with parylene prior to casting the PDMS to ensure the PDMS can fully cure. Photoinitator leaching from the resin may occur which can inhibt the PDMS curing [3]. Parylene serves as a protective barrier, preventing contamination and ensuring the integrity of the PDMS mold.
+The resin-printed molds need to be coated with parylene prior to casting the PDMS to ensure the PDMS can fully cure. Photoinitator leaching from the resin may occur which can inhibit the PDMS curing [3]. Parylene serves as a protective barrier, preventing contamination and ensuring the integrity of the PDMS mold.
 
 # Design Rational
+
+The geometry was designed based on Pinched Flow Fractionation (PFF) principles, ensuring effective particle sorting. Calculations were performed to determine particle center positions during flow. The broad section was maximized at 18.50 mm to enhance separation, while the pinch section was minimized at 0.65 mm, allowing the largest particles to pass through.
+
+Using the equation Yo = (Wp - D/2) * Wb/Wp, larger particles (0.425–0.5 mm in diameter) were expected to flow between 11.38 mm and 12.45 mm from the bottom of the device. To accommodate these tolerances while maintaining space for the upper channel, the second sorting channel was centered at 12 mm. Smaller particles (0.125–0.15 mm in diameter) were calculated to flow between 16.36 mm and 16.72 mm, so the first channel was centered at 16 mm to ensure proper separation.
+
+Four outlets were designed to ensure equal flow distribution to the first two channels. The channel lengths varied to accommodate the barb widths, while proper separation was maintained by adjusting the spacing between the channels. Each outlet was positioned as close as possible to the centerline of the corresponding particle stream, but slight adjustments were made to account for the barb width and ensure uniform width for the four outlet channels.
 
 # Future Changes 
 
 Based on the test results, improvements can be made to enhance the sorting process by mitigating turbulent flow. During sorting, turbulence was observed, which can impact the efficiency and accuracy of particle separation. To address this issue, future modifications should focus on reducing the Reynolds number of the fluid [4].
+
 One potential approach is to use a liquid with lower density to decrease the overall Reynolds number, thereby minimizing turbulence. In the current setup, a surfactant was used to facilitate the flow of hydrophobic particles through the syringe. However, exploring alternative low-density fluids could improve flow stability and enhance the effectiveness of the sorting process.
 
 # Citations
