@@ -26,10 +26,12 @@ Pinch Flow Fractionation (PFF) is a technique that separates particles based on 
 
 As the flow transitions from the narrow (pinched) segment to a wider region, the velocity profile changes, creating size-dependent forces on the particles. Larger particles experience a greater force pushing them toward the center of the channel, while smaller particles remain closer to the sidewall [2]. This amplification of small initial differences in position results in an effective size-based separation perpendicular to the main flow direction. 
 
-[Pinch Flow Fractionation]! (/assets/img/Screenshot 2025-03-21 145832.png)
+[Pinch Flow Fractionation]! (https://www.google.com/imgres?q=pinched%20flow%20fractionation&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F343667008%2Ffigure%2Ffig1%2FAS%3A961356631126023%401606216690144%2FThe-working-principle-of-pinched-flow-fractionation-Reproduced-with-permission-from.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-working-principle-of-pinched-flow-fractionation-Reproduced-with-permission-from_fig1_343667008&docid=D6wUf39fByxioM&tbnid=ZNGFONgGKQIR7M&vet=12ahUKEwjWlZGj0qGMAxWdEFkFHVTpKh4QM3oECBUQAA..i&w=850&h=1076&hcb=2&ved=2ahUKEwjWlZGj0qGMAxWdEFkFHVTpKh4QM3oECBUQAA)
 Figure 1: Demonstration of pinched flow fractionation [2]
 
 # Potential Future Applications 
+
+Cancer metastasis occurs when circulating tumor cells (CTCs) infiltrate the bloodstream and migrate to healthy tissues. An important part of diagnosis and cancer treatment research lies in separating CTCs from the bloodstream. Pinched flow fractionation is described as a method to separate blood cells from CTCs [3].
 
 # Methods 
 
@@ -37,7 +39,7 @@ First, a CAD model was created to define the mold impression, designed to optimi
  
 # Rationale for Parylene Coating 
 
-The resin-printed molds need to be coated with parylene prior to casting the PDMS to ensure the PDMS can fully cure. Photoinitator leaching from the resin may occur which can inhibit the PDMS curing [3]. Parylene serves as a protective barrier, preventing contamination and ensuring the integrity of the PDMS mold.
+The resin-printed molds need to be coated with parylene prior to casting the PDMS to ensure the PDMS can fully cure. Photoinitator leaching from the resin may occur which can inhibit the PDMS curing [4]. Parylene serves as a protective barrier, preventing contamination and ensuring the integrity of the PDMS mold.
 
 # Design Rational
 
@@ -49,11 +51,17 @@ Four outlets were designed to ensure equal flow distribution to the first two ch
 
 # Future Changes 
 
-Based on the test results, improvements can be made to enhance the sorting process by mitigating turbulent flow. During sorting, turbulence was observed, which can impact the efficiency and accuracy of particle separation. To address this issue, future modifications should focus on reducing the Reynolds number of the fluid [4].
+Based on the test results, improvements can be made to enhance the sorting process by mitigating turbulent flow. During sorting, turbulence was observed, which can impact the efficiency and accuracy of particle separation. To address this issue, future modifications should focus on reducing the Reynolds number of the fluid [5].
 
 One potential approach is to use a liquid with lower density to decrease the overall Reynolds number, thereby minimizing turbulence. In the current setup, a surfactant was used to facilitate the flow of hydrophobic particles through the syringe. However, exploring alternative low-density fluids could improve flow stability and enhance the effectiveness of the sorting process.
 
 # Citations
+
+[1]	A.-G. Niculescu, C. Chircov, A. C. Bîrcă, and A. M. Grumezescu, “Fabrication and Applications of Microfluidic Devices: A Review,” Int. J. Mol. Sci., vol. 22, no. 4, p. 2011, Feb. 2021, doi: 10.3390/ijms22042011.
+[2]	M. Yamada, M. Nakashima, and M. Seki, “Pinched Flow Fractionation:  Continuous Size Separation of Particles Utilizing a Laminar Flow Profile in a Pinched Microchannel,” Anal. Chem., vol. 76, no. 18, pp. 5465–5471, Sep. 2004, doi: 10.1021/ac049863r.
+[3]	A. Farahinia, W. J. Zhang, and I. Badea, “Novel microfluidic approaches to circulating tumor cell separation and sorting of blood cells: A review,” J. Sci. Adv. Mater. Devices, vol. 6, no. 3, pp. 303–320, Sep. 2021, doi: 10.1016/j.jsamd.2021.03.005.
+[4]	B. Venzac et al., “PDMS Curing Inhibition on 3D-Printed Molds: Why? Also, How to Avoid It?,” Anal. Chem., vol. 93, no. 19, pp. 7180–7187, May 2021, doi: 10.1021/acs.analchem.0c04944.
+[5]	G. R. Wang, F. Yang, and W. Zhao, “There can be turbulence in microfluidics at low Reynolds number,” Lab Chip, vol. 14, no. 8, pp. 1452–1458, 2014, doi: 10.1039/C3LC51403J.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a41510700b0d818185?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
