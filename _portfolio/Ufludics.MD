@@ -31,7 +31,7 @@ Pinch Flow Fractionation
 Figure 1: Demonstration of pinched flow fractionation [2]
 
 image_path: /assets/img/Screenshot 2025-03-21 145832.png
-
+image: /assets/img/Screenshot 2025-03-21 145832.png
 # Potential Future Applications 
 
 Cancer metastasis occurs when circulating tumor cells (CTCs) infiltrate the bloodstream and migrate to healthy tissues. An important part of diagnosis and cancer treatment research lies in separating CTCs from the bloodstream. Pinched flow fractionation is described as a method to separate blood cells from CTCs [3].
