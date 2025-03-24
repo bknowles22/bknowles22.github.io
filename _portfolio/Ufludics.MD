@@ -28,6 +28,8 @@ As the flow transitions from the narrow (pinched) segment to a wider region, the
 
 Pinch Flow Fractionation
 <img src="https://www.researchgate.net/publication/343667008/figure/fig1/AS:961356631126023@1606216690144/The-working-principle-of-pinched-flow-fractionation-Reproduced-with-permission-from.png" width="75" />
+
+
 Figure 1: Demonstration of pinched flow fractionation [2]
 
 # Potential Future Applications 
