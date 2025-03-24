@@ -30,7 +30,7 @@ Pinch Flow Fractionation
 [<img src="https://www.google.com/imgres?q=pinched%20flow%20fractionation&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F343667008%2Ffigure%2Ffig1%2FAS%3A961356631126023%401606216690144%2FThe-working-principle-of-pinched-flow-fractionation-Reproduced-with-permission-from.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-working-principle-of-pinched-flow-fractionation-Reproduced-with-permission-from_fig1_343667008&docid=D6wUf39fByxioM&tbnid=ZNGFONgGKQIR7M&vet=12ahUKEwjWlZGj0qGMAxWdEFkFHVTpKh4QM3oECBUQAA..i&w=850&h=1076&hcb=2&ved=2ahUKEwjWlZGj0qGMAxWdEFkFHVTpKh4QM3oECBUQAA">]
 Figure 1: Demonstration of pinched flow fractionation [2]
 
-/assets/img/Screenshot 2025-03-21 145832.png
+image_path: /assets/img/Screenshot 2025-03-21 145832.png
 
 # Potential Future Applications 
 
