@@ -61,15 +61,7 @@ One potential approach is to use a liquid with lower density to decrease the ove
 
 # Citations
 
-[1]	A.-G. Niculescu, C. Chircov, A. C. Bîrcă, and A. M. Grumezescu, “Fabrication and Applications of Microfluidic Devices: A Review,” Int. J. Mol. Sci., vol. 22, no. 4, p. 2011, Feb. 2021, doi: 10.3390/ijms22042011.
 
-[2]	M. Yamada, M. Nakashima, and M. Seki, “Pinched Flow Fractionation:  Continuous Size Separation of Particles Utilizing a Laminar Flow Profile in a Pinched Microchannel,” Anal. Chem., vol. 76, no. 18, pp. 5465–5471, Sep. 2004, doi: 10.1021/ac049863r.
-
-[3]	A. Farahinia, W. J. Zhang, and I. Badea, “Novel microfluidic approaches to circulating tumor cell separation and sorting of blood cells: A review,” J. Sci. Adv. Mater. Devices, vol. 6, no. 3, pp. 303–320, Sep. 2021, doi: 10.1016/j.jsamd.2021.03.005.
-
-[4]	B. Venzac et al., “PDMS Curing Inhibition on 3D-Printed Molds: Why? Also, How to Avoid It?,” Anal. Chem., vol. 93, no. 19, pp. 7180–7187, May 2021, doi: 10.1021/acs.analchem.0c04944.
-
-[5]	G. R. Wang, F. Yang, and W. Zhao, “There can be turbulence in microfluidics at low Reynolds number,” Lab Chip, vol. 14, no. 8, pp. 1452–1458, 2014, doi: 10.1039/C3LC51403J.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4df26be5dab0d5619?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
