@@ -2,11 +2,12 @@
 title: "Pliers"
 excerpt: "3D Printed Multimaterial Functional Pliers"
 header:
-  image: /assets/img/PDMS_device.png
-  teaser: /assets/img/VPP_Mold.png
+  image: /assets/img/resitor_pickup.jpg
+  teaser: /assets/side_profile_resistor.jpg
 gallery:
-  - image_path: /assets/img/PDMS_device.png
-  - image_path: /assets/img/VPP_Mold.png
+  - image_path: /assets/img/final_draft_pliers.jpg
+  - image_path: /assets/img/resistor_pickup.jpg
+  - image_path: /assets/img/side_profile_resistor.jpg
      
 ---
 
@@ -28,7 +29,7 @@ As the flow transitions from the narrow (pinched) segment to a wider region, the
 
 Pinch Flow Fractionation
 
-<img src="https://www.researchgate.net/publication/343667008/figure/fig1/AS:961356631126023@1606216690144/The-working-principle-of-pinched-flow-fractionation-Reproduced-with-permission-from.png" style="width:300px;"/>
+<img src="/assets/img/first_draft_pliers" style="width:200px;"/>
 
 
 Figure 1: Demonstration of pinched flow fractionation [2]
