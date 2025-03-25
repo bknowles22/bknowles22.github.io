@@ -1,5 +1,5 @@
 ---
-title: "UFludics"
+title: "UFluidics"
 excerpt: "A 3D printed microfludic device capable of sorting particles by size"
 header:
   image: /assets/img/PDMS_device.png
