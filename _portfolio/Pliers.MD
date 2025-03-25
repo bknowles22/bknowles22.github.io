@@ -75,6 +75,6 @@ One potential approach is to use a liquid with lower density to decrease the ove
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4df26be5dab0d5619?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Working Demonstration
-<img src="path/to/your/gif.gif" alt="Alt Text" width="200">
+<img src="/assets/img/Pliers_Resitors.GIF" alt="Alt Text" width="200">
 
 {% include gallery caption="PDMS Device and Casting Mold" %}
