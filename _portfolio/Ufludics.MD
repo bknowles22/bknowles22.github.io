@@ -1,6 +1,6 @@
 ---
 title: "UFluidics"
-excerpt: "A 3D printed microfludic device capable of sorting particles by size"
+excerpt: "A 3D printed microfluidic device capable of sorting particles by size"
 header:
   image: /assets/img/PDMS_device.png
   teaser: /assets/img/VPP_Mold.png
@@ -12,7 +12,7 @@ gallery:
 
 # Summary 
 
-This 3D-printed microfluidic device demonstrates a cost-effective alternative to using silicon wafers to design and create microfluidic devices. This device was concept tested using plastic particles of different sizes and sorting them into respective channels. However the broader aplications include sorting cells of different types soley on size.
+This 3D-printed microfluidic device demonstrates a cost-effective alternative to using silicon wafers to design and create microfluidic devices. This device was concept-tested using plastic particles of different sizes and sorting them into respective channels. However, the broader applications include sorting cells of different types solely on size.
 
 # Introduction 
 
