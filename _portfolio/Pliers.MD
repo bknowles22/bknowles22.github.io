@@ -6,7 +6,7 @@ header:
   teaser: /assets/side_profile_resistor.jpg
 gallery:
   - image_path: /assets/img/final_draft_pliers.jpg
-  - image_path: /assets/img/resistor_pickup.jpg
+  - image_path: /assets/img/resitor_pickup.jpg
   - image_path: /assets/img/side_profile_resistor.jpg
      
 ---
