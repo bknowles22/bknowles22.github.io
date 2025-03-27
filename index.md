@@ -18,6 +18,10 @@ feature_row:
     alt: "uFluidic"
     title: "3D Printed MicroFluidic"
     excerpt: "Made for sorting small particles by size."
+  - image_path: assets/img/resistor_pickup.jpg
+    alt: "Pliers"
+    title: "3D Printed Multimaterial Pliers"
+    excerpt: "Functional 3D Printed Pliers"
 ---
 
 {% include feature_row %}
