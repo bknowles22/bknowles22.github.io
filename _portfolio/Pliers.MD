@@ -23,7 +23,7 @@ The objective of this project was to 3D print a pair of functional pliers using 
 
 The spring was printed from flexible TPU while the handles and jaws were printed using PLA. The flexible piece was printed using a pattern rather than full infill to allow for flexibility. The first design prioritized the jaws sitting flushed when closed however the initial opening angle of the jaws were too wide given the amount of flexibility present in the connecting piece. Further this design used an triangular pattern as it fit better with the design of the middle connector, this design did not allow for the flexibility needed to fully close the jaws. Additionally, the tops of tips on the jaws did not meet, meaning it was impossible to pick up a resistor. After the initial print the design was completely reconstructed to account for the previously mentioned factors. The connection between the flexible potion and the stiff portion was well done in the first model. An offset of 0.1 was used to account for any printing error. The second model incorporated the successful connection design. 
 
-<img src="/assets/img/first_draft_pliers" style="width:200px;"/>
+<img src="/assets/img/first_draft_pliers.jpg" style="width:200px;"/>
 
 # Final Design Specifications 
 
