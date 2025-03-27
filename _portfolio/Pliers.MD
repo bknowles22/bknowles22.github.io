@@ -1,12 +1,12 @@
 ---
-title: "Pliers"
+title: "Multimaterial Pliers"
 excerpt: "3D Printed Multimaterial Functional Pliers"
 header:
   image: /assets/img/resitor_pickup.jpg
-  teaser: /assets/resitor_pickup.jpg
+  teaser: /assets/img/resitor_pickup.jpg
 gallery:
   - image_path: /assets/img/final_draft_pliers.jpg
-  - image_path: /assets/img/resitor_pickup.jpg
+  - image_path: /assets/img/resitor_pickup2.jpg
   - image_path: /assets/img/side_profile_resistor.jpg
      
 ---
