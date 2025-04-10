@@ -5,8 +5,8 @@ header:
   image: /assets/img/resitor_pickup.jpg
   teaser: /assets/img/resitor_pickup.jpg
 gallery:
-  - image_path: /assets/img/final_draft_pliers.jpg
-  - image_path: /assets/img/resitor_pickup2.jpg
+  - image_path: /assets/img/Handlebars.jpg
+  - image_path: /assets/img/BacksidePhoneView.jpg
   - image_path: /assets/img/side_profile_resistor.jpg
      
 ---
@@ -34,7 +34,7 @@ gallery:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a858f7e5ebdb6b1c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Working Demonstration
-<img src="/assets/img/Pliers_Resitors.GIF" alt="Alt Text" width="200">
+<img src="/assets/img/RotatingPhone.GIF" alt="Alt Text" width="200">
 
 
 {% include gallery caption="Plier Gallery" %}
