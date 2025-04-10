@@ -38,5 +38,5 @@ gallery:
 <img src="/assets/img/RotatingPhone.GIF" alt="Alt Text" width="200">
 
 
-{% include gallery caption="Plier Gallery" %}
+{% include gallery caption="Bike Phone Holder" %}
 
