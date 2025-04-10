@@ -24,7 +24,6 @@ For this project, top-down modeling was integral to ensuring all components fit 
 
 The rotation mechanism at the heart of this design utilizes a detent system comprising a ball bearing and spring. The rotating cylinder features indentations at 0°, 90°, 180°, and 270°, which enable bidirectional rotation and allow the phone holder to lock securely in four distinct orientations. During rotation, the spring compresses, allowing the ball bearing to move out of the detent and into the next one with a click. This design choice was made to provide users with reliable and repeatable rotation positions, enhancing both usability and functionality. The mechanism has proven effective and consistent, as demonstrated in the accompanying .gif!
 
-# Working Demonstration
 <img src="/assets/img/RotatingPhone.GIF" alt="Alt Text" width="200">
 
 # Adjustments for 3D Printing
