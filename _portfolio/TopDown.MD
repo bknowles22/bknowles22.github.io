@@ -42,6 +42,7 @@ The final assembly comprises eight threaded bolts. Five are secured via heat-set
 3. Insert the phone into the flexible TPU holder section.
 4. To rotate the phone, pull gently on the teal flaps and rotate to the desired angle. A clicking sound indicates the ball bearing has locked into the next detent position.
 
+<img src="/assets/img/TopDownParts.png" alt="Alt Text" width="200">
 <img src="/assets/img/Handlebars.jpg" alt="Alt Text" width="200">
 
 # Citations 
