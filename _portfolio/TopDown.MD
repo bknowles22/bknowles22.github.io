@@ -1,13 +1,14 @@
 ---
 title: "Top Down Modeling Project"
-excerpt: "3D Printed Phone Holder to attach to a Bike"
+excerpt: "3D Printed Phone Holder to Attach to a Bike"
 header:
-  image: /assets/img/resitor_pickup.jpg
-  teaser: /assets/img/resitor_pickup.jpg
+  image: /assets/img/BacksidePhoneView.jpg
+  teaser: /assets/img/BacksidePhoneView.jpg
 gallery:
   - image_path: /assets/img/Handlebars.jpg
   - image_path: /assets/img/BacksidePhoneView.jpg
-  - image_path: /assets/img/side_profile_resistor.jpg
+  - image_path: /assets/img/PhoneHolderField.png
+  - image_path: /assets/img/PhoneHolderFieldBack.png
      
 ---
 
