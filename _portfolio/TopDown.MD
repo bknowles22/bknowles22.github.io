@@ -5,12 +5,13 @@ header:
   image: /assets/img/BacksidePhoneView.jpg
   teaser: /assets/img/BacksidePhoneView.jpg
 gallery:
-  - image_path: /assets/img/BacksidePhoneView.jpg
   - image_path: /assets/img/PhoneFrontField1.png
   - image_path: /assets/img/PhoneFrontField2.png
   - image_path: /assets/img/PhoneBackField.png
      
 ---
+This assembly was designed using top-down modeling to create a rotatable phone holder that attaches to bike handlebars. The design for the piece that secures the phone was based on an iPhone 11 clear Otterbox case. To adapt this design for another phone, a new piece to hold the phone would need to be designed. 
+
 # Top Down Modeling Philosophy 
 
 Top-down modeling is a CAD design methodology in which individual components are developed within the context of a larger assembly. This approach streamlines the design process by allowing seamless referencing of geometry and dimensions from other parts in the assembly. Rather than importing external models or manually referencing measurements, top-down modeling enables components to be built relative to one another, fostering precision and cohesion in complex designs.
@@ -42,14 +43,12 @@ The final assembly comprises eight threaded bolts. Five are secured via heat-set
 3. Insert the phone into the flexible TPU holder section.
 4. To rotate the phone, pull gently on the teal flaps and rotate to the desired angle. A clicking sound indicates the ball bearing has locked into the next detent position.
 
-<img src="/assets/img/TopDownParts.png" alt="Alt Text" width="200">
-<img src="/assets/img/Handlebars.jpg" alt="Alt Text" width="200">
-
-# Citations 
+<img src="/assets/img/TopDownParts.jpg" alt="Alt Text" width="300">
+<img src="/assets/img/Handlebars.jpg" alt="Alt Text" width="300">
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a858f7e5ebdb6b1c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-{% include gallery caption="Bike Phone Holder Gallery" %}
+{% include gallery caption="Fusion Renderings Bike Phone Holder Gallery" %}
 
