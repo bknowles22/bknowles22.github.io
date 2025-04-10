@@ -5,16 +5,12 @@ header:
   image: /assets/img/BacksidePhoneView.jpg
   teaser: /assets/img/BacksidePhoneView.jpg
 gallery:
-  - image_path: /assets/img/Handlebars.jpg
   - image_path: /assets/img/BacksidePhoneView.jpg
-  - image_path: /assets/img/PhoneHolderField.png
-  - image_path: /assets/img/PhoneHolderFieldBack.png
+  - image_path: /assets/img/PhoneFrontField1.png
+  - image_path: /assets/img/PhoneFrontField2.png
+  - image_path: /assets/img/PhoneBackField.png
      
 ---
-
-# Summary 
-
-
 # Top Down Modeling Philosophy 
 
 Top-down modeling is a CAD design methodology in which individual components are developed within the context of a larger assembly. This approach streamlines the design process by allowing seamless referencing of geometry and dimensions from other parts in the assembly. Rather than importing external models or manually referencing measurements, top-down modeling enables components to be built relative to one another, fostering precision and cohesion in complex designs.
@@ -25,6 +21,7 @@ For this project, top-down modeling was integral to ensuring all components fit 
 The rotation mechanism at the heart of this design utilizes a detent system comprising a ball bearing and spring. The rotating cylinder features indentations at 0°, 90°, 180°, and 270°, which enable bidirectional rotation and allow the phone holder to lock securely in four distinct orientations. During rotation, the spring compresses, allowing the ball bearing to move out of the detent and into the next one with a click. This design choice was made to provide users with reliable and repeatable rotation positions, enhancing both usability and functionality. The mechanism has proven effective and consistent, as demonstrated in the accompanying .gif!
 
 <img src="/assets/img/RotatingPhone.GIF" alt="Alt Text" width="200">
+<img src="/assets/img/Cross-Sectional-Analysis.png" alt="Alt Text" width="200">
 
 # Adjustments for 3D Printing
 
@@ -44,6 +41,8 @@ The final assembly comprises eight threaded bolts. Five are secured via heat-set
 2. Secure the two clamping bolts with the hex nuts around the bike handlebar to ensure stability.
 3. Insert the phone into the flexible TPU holder section.
 4. To rotate the phone, pull gently on the teal flaps and rotate to the desired angle. A clicking sound indicates the ball bearing has locked into the next detent position.
+
+<img src="/assets/img/Handlebars.jpg" alt="Alt Text" width="200">
 
 # Citations 
 
