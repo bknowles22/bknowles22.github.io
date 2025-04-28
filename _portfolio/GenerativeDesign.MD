@@ -10,29 +10,36 @@ gallery:
   - image_path: /assets/img/PhoneBackField.png
      
 ---
-This assembly was designed using top-down modeling to create a rotatable phone holder that attaches to bike handlebars. The design for the piece that secures the phone was based on an iPhone 11 clear Otterbox case. To adapt this design for another phone, a new piece to hold the phone would need to be designed. 
+# Summary and Design Context
 
-# Top Down Modeling Philosophy 
+The final part is an arm brace designed to stabilize and correct a distal radial fracture. This brace is a lightweight version of a traditional brace designed to resist forces of flexion and extension in the wrist. The final part was designed to resist forces for a woman who is 5’ 9” and 130 lbs. By using generative design, a brace could be developed that is custom to the specifications of the person who broke their wrist. 	A diagram below shows exactly where the wrist fracture would occur, in the radius closest to the patient’s thumb [1].
 
-Top-down modeling is a CAD design methodology in which individual components are developed within the context of a larger assembly. This approach streamlines the design process by allowing seamless referencing of geometry and dimensions from other parts in the assembly. Rather than importing external models or manually referencing measurements, top-down modeling enables components to be built relative to one another, fostering precision and cohesion in complex designs.
-For this project, top-down modeling was integral to ensuring all components fit together accurately. The use of the project geometry feature allowed for direct referencing of features and dimensions from previously constructed parts. As the assembly required precise alignment and mechanical interaction between multiple components, this approach significantly improved efficiency and reduced the potential for error. In particular, referencing the geometry of mating surfaces and alignments ensured a snug and functional fit, reducing the need for iterative adjustments and facilitating a more cohesive assembly process.
+This object combines my interest in biomedical design and 3D printed prototypes. Medicine is becoming more personalized. For this design a hand from grabcad was used and scaled down to approximately fit a model hand. Ideally, data from CT scans could be used to import a patient’s data and create an entirely custom brace. St. Luke’s hospital in Colorado has already started to custom 3D print casts using scan data [2]. However, St. Luke’s has implemented FFF printing and could benefit from SLS printing and generative design to optimize where material is needed and how much force the material needs to resist without restrictive support material. Further, by minimizing the material needed for the brace, more airflow can get to the arm minimizing the issue of water getting trapped in the cast if the patient sweats or gets slightly wet. Additionally, the lack of airflow can create skin discomfort and irritation for the patient and potentially even an infection [3].
 
-# Rationale behind the Design of the Rotating Mechanism
+# Rationale behind Preserve and Obstacle Geometry
 
-The rotation mechanism at the heart of this design utilizes a detent system comprising a ball bearing and spring. The rotating cylinder features indentations at 0°, 90°, 180°, and 270°, which enable bidirectional rotation and allow the phone holder to lock securely in four distinct orientations. During rotation, the spring compresses, allowing the ball bearing to move out of the detent and into the next one with a click. This design choice was made to provide users with reliable and repeatable rotation positions, enhancing both usability and functionality. The mechanism has proven effective and consistent, as demonstrated in the accompanying .gif!
+The critical preserve points in the geometry were based on the geometry of the fracture. At the site of the break a preserve geometry was placed to ensure the cast stabilized the fracture site. Additionally, the thumb joint was also created as a preserve geometry because the muscles that confronal the movement of the thumb are largely in the wrist and needed to be set in order to prevent the break site from experiencing force. Lastly, the circumference of the arm closest to the elbow was marked as a preserve geometry, this was to retain the shape of the cast, serve as an end point for the cast, and serve as an immobile point to be referenced later in the design. The obstacle geometry was defined as the hand model that was inputted.
 
 <img src="/assets/img/RotatingPhone.GIF" alt="Alt Text" width="200">
 <img src="/assets/img/Cross-Sectional-Analysis.png" alt="Alt Text" width="200">
 
-# Adjustments for 3D Printing
+# Load Case Application and Structural Constraints
 
-Accommodating the realities of 3D printing required several design modifications, particularly in regard to tolerancing for fasteners. Initially, bolt holes were dimensioned too tightly, preventing proper insertion post-print. To resolve this, I increased the bolt hole diameter to 4.5 mm, resulting in a clearance of approximately 1.5 mm around the threads, which facilitated easier assembly.
-Additionally, I included a countersink for the center bolt head located on a circular face. However, due to limitations in support removal and minor warping during printing, the fit was tighter than anticipated. Rather than reprinting, I applied additional force to seat the bolt securely, as the dimensions were technically correct. This solution, while not ideal, proved effective for this iteration.
+To determine the magnitude of each load, anthropometric tables that were provided by a biomedical engineering professor at Vanderbilt were used in order to approximate the weights of the components of the wrist, thumb, and forearm. Using these tables, and by inputting the height, weight, and gender of the patient the forces acting on the hand could be calculated. Below is a free body diagram (FBD) demonstrating where the forces were acting. Fmuslce was determined to be 8.3 N and the force was determined to act 0.02 away from the wrist joint. The distance from the wrist joint was approximated to zero and the force was placed on the preserve geometry encompassing the broken wrist. 
 
-# 3D Printing Method and Material Choices
+The model was designed to resist forces that mimic my own, meaning to test the brace I can try it on and attempt to force my wrist into flexion or extension to test the integrity of the design. Further, trying on the brace will reflect how accurate the scaled down version of the grab-cad hand was and if it could be used to model off in the future.
 
-I used fused filament fabrication (FFF) to build up my pieces layer by layer. I used this technique because it allowed me to print multiple iterations of the mechanism. This was necessary since the tolerance of my bolt holes was initially too small. Ideally, I would have used selective laser sintering (SLS) to create my model so I would not have had to print the main body separately from the attachment piece to the bike handle. Additionally, I had to print a cover for my spring mechanism to enclose the spring and the spinning cylinder. This was done because I anticipated not being able to accurately remove supports from the inner compartment creating a bumpy surface unsuitable for a spring to sit on. However, in SLS printing, this support is not necessary which would have eliminated the need for multiple components.
-The main body and attachment components were printed using Polylactic Acid (PLA), chosen for its strength and ease of use. The phone holder itself was printed in Thermoplastic Polyurethane (TPU), a flexible material that accommodates dimensional variance and offers a snug yet adaptable grip on the iPhone 11 Otterbox clear case. This material flexibility helped to mitigate small discrepancies introduced by printing tolerances, ensuring a secure fit for the phone.
+# Forces Applied 
+
+| **Force** | **Magnitude** | **Application Site**|
+| --- | --- | --- |
+| Bending Moment | 1.9 nM clockwise | At wrist fracture site |
+| Wrist Muscle | 8.3 N away from wrist | At wrist fracture site |
+|Torsion - Shear force | 0.42 towards the wrist | Across the fracture plane |
+
+# Critique of Generative Design 
+
+When creating the preserved geometries, they had to encompass the form and structure of the hand without creating something too bulky. To create the form fitting, a cylindrical shape centered on the hand or wrist was first created and then the preserved hand was subtracted from the cylindrical body. This allowed for confirmation to the shape of the hand, but because of the changing geometries, the preserved regions were rather bulky to encompass the entire region of the hand. Using fillets and small cuts, this issue could be mitigated, but the preserve regions remained bulky in comparison to the remaining generative design. Further, the majority of  forces experienced occured at the site of injury. 
 
 # Assembly and Use Instructions 
 
