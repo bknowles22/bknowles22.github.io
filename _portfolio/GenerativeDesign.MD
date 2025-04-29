@@ -56,7 +56,9 @@ When creating the preserved geometries, they had to encompass the form and struc
 # References 
 
 [1]	R. M. Patient, “Distal Radius Fracture | Rehab My Patient.” Accessed: Apr. 28, 2025. [Online]. Available: https://www.rehabmypatient.com//hand-fingers-thumb/distal-radius-fracture
+
 [2]	“First in Nation to Make Custom Casts through 3D Printing on Site.” Accessed: Apr. 28, 2025. [Online]. Available: https://www.slhn.org/blog/2022/first-in-nation-to-make-custom-casts-through-3d-printing-on-site
+
 [3]	M. Halanski and K. J. Noonan, “Cast and Splint Immobilization: Complications,” JAAOS - J. Am. Acad. Orthop. Surg., vol. 16, no. 1, p. 30, Jan. 2008.
 
 # CAD Model
