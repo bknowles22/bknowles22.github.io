@@ -2,7 +2,7 @@
 title: "Generative Design Project"
 excerpt: "3D Printed Arm Brace for Radius Fracture"
 header:
-  image: /assets/img/HorizontalBrace.jpg
+  image: /assets/img/BraceVertical.jpg
   teaser: /assets/img/BacksidePhoneView.jpg
 gallery:
   - image_path: /assets/img/PhoneFrontField1.png
