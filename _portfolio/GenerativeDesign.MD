@@ -2,13 +2,13 @@
 title: "Generative Design Project"
 excerpt: "3D Printed Cast"
 header:
-  image: /assets/img/HorizontalBrace.jpg
+  image: /assets/img/BacksidePhoneView.jpg
   teaser: /assets/img/HorizontalBrace.jpg
 gallery:
-  - image_path: /assets/img/BraceVertical.jpg
-  - image_path: /assets/img/BraceUseCase1.jpg
-  - image_path: /assets/img/BraceUseCase2.jpg
-  - image_path: /assets/img/BraceUseCase3.jpg
+  - image_path: assets/img/BraceVertical.jpg
+  - image_path: assets/img/BraceUseCase1.jpg
+  - image_path: assets/img/BraceUseCase2.jpg
+  - image_path: assets/img/BraceUseCase3.jpg
      
 ---
 # Summary and Design Context
