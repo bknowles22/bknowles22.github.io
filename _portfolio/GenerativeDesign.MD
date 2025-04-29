@@ -2,32 +2,36 @@
 title: "Generative Design Project"
 excerpt: "3D Printed Cast"
 header:
-  image: /assets/img/BacksidePhoneView.jpg
-  teaser: /assets/img/BacksidePhoneView.jpg
+  image: /assets/img/HorizontalBrace.jpg
+  teaser: /assets/img/HorizontalBrace.jpg
 gallery:
-  - image_path: /assets/img/PhoneFrontField1.png
-  - image_path: /assets/img/PhoneFrontField2.png
-  - image_path: /assets/img/PhoneBackField.png
+  - image_path: /assets/img/BraceVertical.jpg
+  - image_path: /assets/img/BraceUseCase1.jpg
+  - image_path: /assets/img/BraceUseCase2.jpg
+  - image_path: /assets/img/BraceUseCase3.jpg
      
 ---
 # Summary and Design Context
 
 The final part is an arm brace designed to stabilize and correct a distal radial fracture. This brace is a lightweight version of a traditional brace designed to resist forces of flexion and extension in the wrist. The final part was designed to resist forces for a woman who is 5’ 9” and 130 lbs. By using generative design, a brace could be developed that is custom to the specifications of the person who broke their wrist. 	A diagram below shows exactly where the wrist fracture would occur, in the radius closest to the patient’s thumb [1].
 
+<img src="/assets/img/RadialFracture.png" alt="Alt Text" width="300">
+
 This object combines my interest in biomedical design and 3D printed prototypes. Medicine is becoming more personalized. For this design a hand from grabcad was used and scaled down to approximately fit a model hand. Ideally, data from CT scans could be used to import a patient’s data and create an entirely custom brace. St. Luke’s hospital in Colorado has already started to custom 3D print casts using scan data [2]. However, St. Luke’s has implemented FFF printing and could benefit from SLS printing and generative design to optimize where material is needed and how much force the material needs to resist without restrictive support material. Further, by minimizing the material needed for the brace, more airflow can get to the arm minimizing the issue of water getting trapped in the cast if the patient sweats or gets slightly wet. Additionally, the lack of airflow can create skin discomfort and irritation for the patient and potentially even an infection [3].
+
+<img src="/assets/img/BraceWeight.jpg" alt="Alt Text" width="200">
 
 # Rationale behind Preserve and Obstacle Geometry
 
 The critical preserve points in the geometry were based on the geometry of the fracture. At the site of the break a preserve geometry was placed to ensure the cast stabilized the fracture site. Additionally, the thumb joint was also created as a preserve geometry because the muscles that confronal the movement of the thumb are largely in the wrist and needed to be set in order to prevent the break site from experiencing force. Lastly, the circumference of the arm closest to the elbow was marked as a preserve geometry, this was to retain the shape of the cast, serve as an end point for the cast, and serve as an immobile point to be referenced later in the design. The obstacle geometry was defined as the hand model that was inputted.
-
-<img src="/assets/img/RotatingPhone.GIF" alt="Alt Text" width="200">
-<img src="/assets/img/Cross-Sectional-Analysis.png" alt="Alt Text" width="200">
 
 # Load Case Application and Structural Constraints
 
 To determine the magnitude of each load, anthropometric tables that were provided by a biomedical engineering professor at Vanderbilt were used in order to approximate the weights of the components of the wrist, thumb, and forearm. Using these tables, and by inputting the height, weight, and gender of the patient the forces acting on the hand could be calculated. Below is a free body diagram (FBD) demonstrating where the forces were acting. Fmuslce was determined to be 8.3 N and the force was determined to act 0.02 away from the wrist joint. The distance from the wrist joint was approximated to zero and the force was placed on the preserve geometry encompassing the broken wrist. 
 
 The model was designed to resist forces that mimic my own, meaning to test the brace I can try it on and attempt to force my wrist into flexion or extension to test the integrity of the design. Further, trying on the brace will reflect how accurate the scaled down version of the grab-cad hand was and if it could be used to model off in the future.
+
+<img src="/assets/img/GenerativeOutcomes.png" alt="Alt Text" width="200">
 
 # Forces Applied 
 
@@ -41,17 +45,6 @@ The model was designed to resist forces that mimic my own, meaning to test the b
 
 When creating the preserved geometries, they had to encompass the form and structure of the hand without creating something too bulky. To create the form fitting, a cylindrical shape centered on the hand or wrist was first created and then the preserved hand was subtracted from the cylindrical body. This allowed for confirmation to the shape of the hand, but because of the changing geometries, the preserved regions were rather bulky to encompass the entire region of the hand. Using fillets and small cuts, this issue could be mitigated, but the preserve regions remained bulky in comparison to the remaining generative design. Further, the majority of  forces experienced occured at the site of injury. 
 
-# Assembly and Use Instructions 
-
-The final assembly comprises eight threaded bolts. Five are secured via heat-set inserts embedded in the plastic, while the remaining three utilize hex nuts for fastening. Two of the nuts are positioned strategically to clamp the mechanism around the bike handle, allowing the assembly to be both secure and adjustable. The remaining nut is placed through the center of the assembly loosely to allow rotation. 
-
-1. Tighten the central bolt until the phone is held firmly in place, even when the assembly is shaken.
-2. Secure the two clamping bolts with the hex nuts around the bike handlebar to ensure stability.
-3. Insert the phone into the flexible TPU holder section.
-4. To rotate the phone, pull gently on the teal flaps and rotate to the desired angle. A clicking sound indicates the ball bearing has locked into the next detent position.
-
-<img src="/assets/img/TopDownParts.jpg" alt="Alt Text" width="300">
-<img src="/assets/img/Handlebars.jpg" alt="Alt Text" width="300">
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a277aa1322249a25?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
