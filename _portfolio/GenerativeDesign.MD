@@ -10,16 +10,6 @@ gallery:
   - image_path: /assets/img/BraceUseCase2.jpg
   - image_path: /assets/img/BraceUseCase3.png
 
-header:
-  image: /assets/img/BacksidePhoneView.jpg
-  teaser: /assets/img/BacksidePhoneView.jpg
-gallery:
-  - image_path: /assets/img/PhoneFrontField1.png
-  - image_path: /assets/img/PhoneFrontField2.png
-  - image_path: /assets/img/PhoneBackField.png
-     
----
-     
 ---
 # Summary and Design Context
 
