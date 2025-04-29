@@ -9,7 +9,6 @@ gallery:
   - image_path: /assets/img/BraceUseCase1.jpg
   - image_path: /assets/img/BraceUseCase2.jpg
   - image_path: /assets/img/BraceUseCase3.png
-
 ---
 # Summary and Design Context
 
