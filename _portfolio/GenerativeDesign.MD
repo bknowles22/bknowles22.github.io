@@ -21,7 +21,7 @@ This object combines my interest in biomedical design and 3D printed prototypes.
 
 <img src="/assets/img/BraceWeight.jpg" alt="Alt Text" width="200">
 
-# Rationale behind Preserve and Obstacle Geometry
+# Rationale Behind Preserve and Obstacle Geometry
 
 The critical preserve points in the geometry were based on the geometry of the fracture. At the site of the break a preserve geometry was placed to ensure the cast stabilized the fracture site. Additionally, the thumb joint was also created as a preserve geometry because the muscles that control the movement of the thumb are largely in the wrist and needed to be set in order to prevent the break site from experiencing force. Lastly, the circumference of the arm closest to the elbow was marked as a preserved geometry, this was to retain the shape of the cast, serve as an endpoint for the cast, and serve as an immobile point to be referenced later in the design. The obstacle geometry was defined as the hand model that was inputted.
 
