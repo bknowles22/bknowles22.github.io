@@ -53,6 +53,11 @@ The moment of the wrist was determined as the force needed to resist rotation in
 
 When creating the preserved geometries, they had to encompass the form and structure of the hand without creating something too bulky. To create the form-fitting brace, a cylindrical shape centered on the hand or wrist was first created and then the preserved hand was subtracted from the cylindrical body. This allowed for confirmation to the shape of the hand, but because of the changing geometries, the preserved regions were rather bulky to encompass the entire region of the hand. Using fillets and small cuts, this issue could be mitigated, but the preserve regions remained bulky in comparison to the remaining generative design. Further, the majority of  forces experienced occured at the site of injury. 
 
+# References 
+
+[1]	R. M. Patient, “Distal Radius Fracture | Rehab My Patient.” Accessed: Apr. 28, 2025. [Online]. Available: https://www.rehabmypatient.com//hand-fingers-thumb/distal-radius-fracture
+[2]	“First in Nation to Make Custom Casts through 3D Printing on Site.” Accessed: Apr. 28, 2025. [Online]. Available: https://www.slhn.org/blog/2022/first-in-nation-to-make-custom-casts-through-3d-printing-on-site
+[3]	M. Halanski and K. J. Noonan, “Cast and Splint Immobilization: Complications,” JAAOS - J. Am. Acad. Orthop. Surg., vol. 16, no. 1, p. 30, Jan. 2008.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4a277aa1322249a25?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
