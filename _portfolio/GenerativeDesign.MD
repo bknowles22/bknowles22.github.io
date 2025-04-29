@@ -1,14 +1,17 @@
 ---
 title: "Generative Design Project"
-excerpt: "3D Printed Cast"
+excerpt: "3D Printed Arm Brace for Radius Fracture"
 header:
-  image: ./assets/img/HorizontalBrace.jpg
-  teaser: ./assets/img/HorizontalBrace.jpg
+  image: /assets/img/HorizontalBrace.jpg
+  teaser: /assets/img/BacksidePhoneView.jpg
 gallery:
-  - image_path: ./assets/img/BraceVertical.jpg
+  - image_path: /assets/img/PhoneFrontField1.png
+  - image_path: /assets/img/PhoneFrontField2.png
+  - image_path: /assets/img/PhoneBackField.png
+  - image_path: /assets/img/BraceVertical.jpg
   - image_path: ./assets/img/BraceUseCase1.jpg
   - image_path: ./assets/img/BraceUseCase2.jpg
-  - image_path:./assets/img/BraceUseCase3.jpg
+  - image_path: ./assets/img/BraceUseCase3.jpg
      
 ---
 # Summary and Design Context
