@@ -31,7 +31,7 @@ To determine the magnitude of each load, anthropometric tables that were provide
 
 The model was designed to resist forces that mimic my own, meaning to test the brace I can try it on and attempt to force my wrist into flexion or extension to test the integrity of the design. Further, trying on the brace will reflect how accurate the scaled down version of the grab-cad hand was and if it could be used to model off in the future.
 
-<img src="/assets/img/GenerativeOutcomes.png" alt="Alt Text" width="200">
+<img src="/assets/img/GenerativeOutcomes.png" alt="Alt Text" width="300">
 
 # Forces Applied 
 
