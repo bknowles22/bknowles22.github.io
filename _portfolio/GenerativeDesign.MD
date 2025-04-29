@@ -6,9 +6,9 @@ header:
   teaser: /assets/img/HorizontalBrace.JPG
 gallery:
   - image_path: /assets/img/BraceVertical.JPG
-  - image_path: /assets/img/BraceUseCase1.jpg
-  - image_path: /assets/img/BraceUseCase2.jpg
-  - image_path: /assets/img/BraceUseCase3.jpg
+  - image_path: assets/img/BraceUseCase1.jpg
+  - image_path: assets/img/BraceUseCase2.jpg
+  - image_path: assets/img/BraceUseCase3.jpg
      
 ---
 # Summary and Design Context
