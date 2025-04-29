@@ -5,13 +5,10 @@ header:
   image: /assets/img/HorizontalBrace.jpg
   teaser: /assets/img/HorizontalBrace.jpg
 gallery:
-  - image_path: /assets/img/PhoneFrontField1.png
-  - image_path: /assets/img/PhoneFrontField2.png
-  - image_path: /assets/img/PhoneBackField.png
   - image_path: /assets/img/BraceVertical.jpg
-  - image_path: ./assets/img/BraceUseCase1.jpg
-  - image_path: ./assets/img/BraceUseCase2.jpg
-  - image_path: ./assets/img/BraceUseCase3.jpg
+  - image_path: /assets/img/BraceUseCase1.jpg
+  - image_path: /assets/img/BraceUseCase2.jpg
+  - image_path: /assets/img/BraceUseCase3.jpg
      
 ---
 # Summary and Design Context
